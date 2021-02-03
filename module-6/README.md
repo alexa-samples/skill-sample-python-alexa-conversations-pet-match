@@ -18,7 +18,6 @@ If for some reason your code is isn't working you can check out the final versio
 #### en-US.json
 
 The interaction model for the skill. It includes the slot types necessary for 
-your skill. Before to import this first before you attempt to build out the 
 your skill. Import this first before you attempt to build out the 
 Alexa Conversations components.
 

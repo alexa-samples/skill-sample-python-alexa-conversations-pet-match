@@ -18,7 +18,6 @@ When you're ready, check out [Module 5: Keep track of the conversation with cont
 #### en-US.json
 
 The interaction model for the skill. It includes the slot types necessary for 
-your skill. Before to import this first before you attempt to build out the 
 your skill. Import this first before you attempt to build out the 
 Alexa Conversations components.
 
