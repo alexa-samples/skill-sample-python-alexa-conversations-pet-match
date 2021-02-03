@@ -31,6 +31,10 @@
                 {
                     "name": "AMAZON.NavigateHomeIntent",
                     "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
                 }
             ],
             "types": [
@@ -136,6 +140,20 @@
                             }
                         }
                     ]
+                },
+                {
+                    "name": "description",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "sample description"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "name",
+                    "values": []
                 }
             ]
         }
