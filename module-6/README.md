@@ -29,8 +29,8 @@ your skill.
 #### lambda_function.py
 
 This is the main executable for the skill.  
-This is the main executable for the skill.  
 
 ### requirements.txt
 
 Libraries required to execute this lambda.
+
