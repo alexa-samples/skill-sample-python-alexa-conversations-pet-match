@@ -1,0 +1,36 @@
+# Workshop: Building a Skill with Alexa Conversations
+
+## Module 6: Add a second API to your dialog
+
+### Step-by-step Instructions
+
+You can find the instructions here: [Module 6: Add a second API to your dialog](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-multi-turn-skills-with-alexa-conversations/module-6).
+
+If for some reason your code is isn't working you can check out the final version [here](../final).
+
+### Contents
+
+* [en-US.json](./en-US.json)
+* [PetMatch.json](./PetMatch.json)
+* [lambda_function.py](./lambda_function.py)
+* [requirements.txt](./requirements.txt)
+
+#### en-US.json
+
+The interaction model for the skill. It includes the slot types necessary for 
+your skill. Import this first before you attempt to build out the 
+Alexa Conversations components.
+
+#### PetMatch.json
+
+The backend data for the skill. This JSON file will serve as the database for 
+your skill. 
+
+#### lambda_function.py
+
+This is the main executable for the skill.  
+
+### requirements.txt
+
+Libraries required to execute this lambda.
+
