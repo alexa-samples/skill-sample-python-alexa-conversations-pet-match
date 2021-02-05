@@ -13,11 +13,12 @@ If for some reason your code is isn't working you can check out the final versio
 * [en-US.json](./en-US.json)
 * [PetMatch.json](./PetMatch.json)
 * [lambda_function.py](./lambda_function.py)
+* [requirements.txt](./requirements.txt)
 
 #### en-US.json
 
 The interaction model for the skill. It includes the slot types necessary for 
-your skill. Before to import this first before you attempt to build out the 
+your skill. Import this first before you attempt to build out the 
 Alexa Conversations components.
 
 #### PetMatch.json
@@ -28,3 +29,8 @@ your skill.
 #### lambda_function.py
 
 This is the main executable for the skill.  
+
+### requirements.txt
+
+Libraries required to execute this lambda.
+
